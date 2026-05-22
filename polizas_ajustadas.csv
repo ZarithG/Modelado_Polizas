@@ -1,0 +1,130 @@
+Prima_Neta,Valor_Cuota,Dias_Entre_Aviso_Cierre,Riesgo_Pais,Fecha_Aviso,Sin_Plan_Pago,Garantia_Suscripcion,Compania,Evento,Nombre_Ramo,Canal,Ciudad_y,Linea_Negocio,Sucursal
+82718478,0,60,114806,2025-06-10,False,False,SOUTHBRIDGE,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+37851225,0,60,102351,2025-08-20,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+37851225,0,60,101207,2025-11-07,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+37851225,0,60,85205,2026-03-11,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+37851225,0,60,87112,2026-03-12,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+37851225,0,60,10223,2026-03-31,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,Incendio,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,121642,2025-03-05,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,125543,2025-03-07,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,116743,2025-05-12,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,94569,2025-09-22,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,100342,2025-11-06,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+2466014,0,60,9118,2025-12-27,False,False,SOUTHBRIDGE,NORMAL,Robo Con Fractura,DIR,Santiago,Empresas,THB Santiago
+1253128,0,90,103632,2025-09-01,False,False,SOUTHBRIDGE,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Grandes Cuentas,AJG Santiago
+1133804,0,60,133625,2025-03-03,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+1133804,0,60,12203,2025-05-19,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+1133804,0,60,94381,2026-03-17,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+1076533,0,90,94532,2025-09-26,False,False,RENTA NACIONAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,IMP,Valdivia,Banca Seguros Santander,AJG Santiago
+326331,0,60,108518,2025-07-29,False,False,FID,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+326331,0,60,103639,2025-09-15,False,False,FID,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+326331,0,60,94106,2026-01-08,False,False,FID,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+85418,0,90,119168,2025-06-05,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic- Motoriz. Pesados,DIR,Concón,Empresas,THB Santiago
+84011,77757,90,108995,2025-07-25,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,103639,2025-09-15,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,96727,2025-10-04,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,94583,2025-10-06,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,97986,2025-10-09,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,106052,2025-10-10,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,104425,2025-10-16,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,9793,2025-10-24,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,93536,2025-10-30,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,100392,2025-11-12,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,100473,2025-11-24,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,101565,2025-11-25,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,92051,2025-12-04,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,89767,2025-12-05,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,91833,2025-12-10,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,89367,2025-12-22,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,94044,2026-01-13,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,89628,2026-02-20,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,92322,2026-03-06,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,85205,2026-03-11,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,97861,2026-03-24,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,90,10223,2026-03-31,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+84011,77757,60,9916,2026-04-01,False,False,EVEREST SEGUROS GENERALES CHILE S.A,NORMAL,R. Civil General,DIR,Santiago,Empresas,THB Santiago
+55988,0,60,100252,2025-10-21,False,True,CONTEMPORA SEGUROS GENERALES,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Paine,IRF,THB Santiago
+49500,0,90,94677,2026-02-13,False,True,HDI SEGUROS (EX LIBERTY),NORMAL,R. Civil General,DIR,Coihueco,Empresas,THB Santiago
+43925,0,60,101055,2026-03-27,False,False,RENTA NACIONAL GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Valdivia,Banca Seguros Santander,AJG Santiago
+35204,0,60,94532,2025-09-26,False,False,HDI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Antofagasta,Banca Seguros Santander,AJG Santiago
+35204,0,60,93463,2026-01-12,False,False,HDI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Antofagasta,Banca Seguros Santander,AJG Santiago
+27174,0,60,134176,2025-04-25,False,True,CONTEMPORA SEGUROS GENERALES,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Viña Del Mar,IRF,THB Santiago
+27174,0,60,11485,2025-06-17,False,True,CONTEMPORA SEGUROS GENERALES,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Viña Del Mar,IRF,THB Santiago
+26435,0,60,122182,2025-05-30,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Incendio,DIR,Antofagasta,Pyme,THB Santiago
+23732,0,90,125955,2025-02-03,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,124722,2025-02-13,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,128551,2025-03-20,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,131546,2025-03-28,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,144938,2025-04-16,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,112847,2025-06-06,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,11485,2025-06-17,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,113526,2025-06-19,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,108028,2025-07-03,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,108642,2025-07-14,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,109476,2025-07-17,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,105677,2025-09-04,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,94532,2025-09-26,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,104425,2025-10-16,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,10245,2025-10-20,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+23732,0,90,86486,2025-12-15,False,False,ORION,NORMAL,Transp. Internacional,DIR,Santiago,Empresas,THB Santiago
+17951,21362,90,105455,2025-07-24,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+6986,0,90,90147,2026-01-27,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic- Motoriz. Pesados,DIR,Melipilla,Flotas,THB Santiago
+5852,696,60,114806,2025-06-10,False,False,ZURICH GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Los Angeles,Pyme,THB Santiago
+5377,0,60,108591,2025-07-21,False,False,BCI GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+5377,0,60,95185,2025-09-25,False,False,BCI GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+4878,581,60,128551,2025-03-20,False,False,ZURICH GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Los Angeles,Empresas,THB Los Ángeles
+4872,0,90,98048,2025-10-28,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Flotas,THB Santiago
+4409,0,90,92988,2026-03-02,False,True,CONTEMPORA SEGUROS GENERALES,NORMAL,Instal. Electronicas,DIR,Santiago,Empresas,THB Santiago
+3647,0,60,10737,2025-08-28,False,False,SURA GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Talca,Empresas,THB Talca
+3568,4386379,90,94583,2025-10-06,False,False,FID,NORMAL,Vehic- Motoriz. Pesados,DIR,Melipilla,Flota Digital,THB Santiago
+3320,0,90,104199,2025-08-26,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,R. Civil General,DIR,Paine,IRF,THB Santiago
+2752,0,60,126798,2025-05-06,False,False,CHUBB GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+2752,0,60,119345,2025-05-20,False,False,CHUBB GENERALES,NORMAL,Incendio,DIR,Santiago,Pyme,THB Santiago
+2693,0,60,94532,2025-09-26,False,False,HDI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Santiago,LLPP,AJG Santiago
+2552,0,60,94532,2025-09-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Santiago,Grandes Cuentas,AJG Santiago
+2395,0,60,94532,2025-09-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Rancagua,LLPP,AJG Santiago
+2011,0,60,136216,2025-04-28,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,LLPP,RKC
+1734,0,60,94532,2025-09-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Santiago,LLPP,AJG Santiago
+1732,0,60,94532,2025-09-26,False,False,ASPOR,NORMAL,Vehic. Motoriz. Livianos,IMP,Sin Información,LLPP,AJG Santiago
+1724,205156,90,88617,2026-01-28,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+1625,0,60,94532,2025-09-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Sin Información,LLPP,AJG Santiago
+1548,0,60,94532,2025-09-26,False,False,ZURICH GENERALES,NORMAL,Vehic. Motoriz. Livianos,IMP,Santiago,LLPP,AJG Santiago
+1543,0,60,88995,2026-01-23,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,LLPP,THB Santiago
+1467,1746,90,92491,2026-02-17,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+1396,0,60,91587,2026-01-06,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Nuevos Negocios,THB Santiago
+1382,0,60,91198,2025-12-09,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Sin Información,LLPP,AJG Santiago
+1274,0,60,107519,2025-07-11,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,LLPP,THB Santiago
+1236,0,60,99689,2025-10-23,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Curico,THB Curicó
+1232,0,60,136216,2025-04-28,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic. Motoriz. Livianos,DIR,Curicó,LLPP,THB Curicó
+1224,0,60,94532,2025-09-27,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Sin Información,LLPP,AJG Santiago
+1113,0,60,145283,2025-04-04,False,False,SURA GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Corporate,THB Santiago
+1024,0,60,93622,2026-01-07,False,False,HDI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Sin Información,Quillota,AJG Quillota
+1003,0,60,91833,2025-12-10,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Alhue,LLPP,AJG Santiago
+845,0,320,92593,2026-01-05,False,False,HDI GENERALES,NORMAL,Accidentes Personales Generales,DIR,Puerto Montt,Old Gallagher,AJG Viña del Mar
+822,0,60,90384,2026-01-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Flota Digital,THB Santiago
+752,81,60,123988,2025-03-26,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,LLPP,THB Talca
+745,0,60,93361,2026-03-16,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Nuevos Negocios,THB Santiago
+735,0,60,94532,2025-09-26,False,False,ASPOR,NORMAL,Incendio,IMP,Santiago,Empresas,AJG Santiago
+708,108,60,108028,2025-07-05,False,False,ZURICH GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Doñihue,LLPP,THB Santiago
+708,108,60,108028,2025-07-05,False,False,ZURICH GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Doñihue,LLPP,THB Santiago
+688,0,60,115665,2025-06-23,False,False,MAPFRE GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+686,0,60,89367,2025-12-22,False,False,HDI SEGUROS (EX LIBERTY),NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+638,0,60,93361,2026-03-16,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Nuevos Negocios,AJG Santiago
+429,0,90,96433,2025-09-30,False,False,RENTA NACIONAL GENERALES,NORMAL,Vehic- Motoriz. Pesados,DIR,Santiago,Pyme,THB Santiago
+401,0,60,94532,2025-09-26,False,False,REALE SEGUROS,NORMAL,Vehic. Motoriz. Livianos,IMP,Santiago,Pyme,AJG Santiago
+339,0,90,98073,2025-11-21,False,False,MAPFRE GENERALES,NORMAL,Vehic- Motoriz. Pesados,DIR,Santiago,Old Gallagher,AJG Concepción
+250,0,60,9852,2026-03-23,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Nuevos Negocios,THB Santiago
+196,0,60,87526,2026-02-03,False,False,HDI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,LLPP,AJG Santiago
+157,0,60,119865,2025-05-28,False,False,BCI GENERALES,NORMAL,Vehic. Motoriz. Livianos,DIR,Santiago,Pyme,THB Santiago
+150,595,60,94569,2025-09-22,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Santiago,IRF,THB Santiago
+150,0,60,96727,2025-10-05,False,False,CONTEMPORA SEGUROS GENERALES,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Sin Información,Old Gallagher,AJG Viña del Mar
+121,0,60,88609,2026-03-05,False,False,FID,NORMAL,Vehic. Motoriz. Livianos,DIR,Valparaíso,Quillota,AJG Quillota
+119,0,60,97986,2025-10-09,False,True,ASPOR,NORMAL,Todo Riesgo Construcción y Montaje,DIR,Santiago,IRF,THB Santiago
+110,0,90,123658,2025-05-09,False,False,RENTA NACIONAL GENERALES,NORMAL,Transporte Terrestre,IMP,Sin Información,Concepcion,AJG Concepción
+40,479,90,131607,2025-04-23,False,False,SURA GENERALES,NORMAL,Vehic- Motoriz. Pesados,DIR,Talca,Empresas,THB Talca
+28,119,90,108518,2025-07-29,False,False,CONTINENTAL GENERALES,NORMAL,R. Civil General,DIR,Santiago,Garantia y Crédito,THB Santiago
+10,119,90,90876,2025-12-11,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+10,119,90,90756,2025-12-17,False,False,CONTINENTAL GENERALES,NORMAL,R. Civil General,DIR,Santiago,Garantia y Crédito,THB Santiago
+10,119,90,90756,2025-12-17,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+10,119,90,89002,2026-03-13,False,False,CONTINENTAL GENERALES,NORMAL,Todo Riesgo Bs. Fisicos,DIR,Santiago,Garantia y Crédito,THB Santiago
+8,95,60,123326,2025-02-17,False,False,CONTINENTAL GENERALES,NORMAL,Equipo Movil,DIR,Santiago,Garantia y Crédito,THB Santiago
